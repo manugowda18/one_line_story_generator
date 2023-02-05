@@ -1,1 +1,2 @@
-# one_line_story_generator
+_one line story generator_
+<h6>This PYTHON code generates a random story by using string concatenation and the "random" library. The code defines five lists that store various elements of the story, such as time, characters, places, and actions. The "random.choice()" function is used to pick a random element from each list and create a unique story each time the code is run. The output is a short sentence that describes a fictional event involving a random combination of characters, places, and actions.</h6>
